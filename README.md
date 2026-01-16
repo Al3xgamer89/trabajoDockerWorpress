@@ -1,1 +1,1 @@
-# WordPress ha sido desplegado correctamente mediante Docker utilizando docker-compose.yml, configurando el acceso al servicio a través de un puerto del equipo anfitrión. El funcionamiento se ha verificado accediendo desde el propio equipo mediante localhost (http://192.168.56.1:8080)
+# WordPress ha sido desplegado correctamente mediante Docker utilizando docker-compose.yml (http://192.168.56.1:8080)
